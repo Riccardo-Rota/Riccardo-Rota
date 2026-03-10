@@ -6,7 +6,7 @@ I'm a student in the Double Degree program between EPFL and Politecnico di Milan
 
 * 💻 **Machine/Deep Learning:** My most recent projects explore applications of Machine Learning across different fields, using frameworks like PyTorch, TensorFlow, and JAX.
 
-* 📐 **Applications to PDEs:** One of the areas I explored the most during my studies in Italy is Partial Differential Equations (PDEs). Here you can find projects covering both Machine Learning applications for PDEs and C++ solvers targeting High Performance.
+* 📐 **Applications to PDEs:** One of the areas I explored the most during my studies in Italy! Here you can find projects covering both Machine Learning applications for PDEs and C++ solvers targeting High Performance.
 
 * 🎧 **Audio ML Processing and Computer Vision:** These are my main focus areas at Logitech. While the code is private, you can check out some of this work in our recent Interspeech submission: *[Differentiable Time-Varying IIR Filtering for Real-Time Speech Denoising](https://arxiv.org/abs/2603.02794v1)*.
 
