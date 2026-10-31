@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Riccardo
 
-Right now, I'm based in Milan 📍, working as an AI Research Engineer at Bending Spoons. 
+Based in Milan 📍, working as an AI Research Engineer at Bending Spoons. 
 
 * 🧠 **My current interests:** AI, Machine Learning, Diffusion Models, Computer Vision.
 
